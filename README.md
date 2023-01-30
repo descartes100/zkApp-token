@@ -1,6 +1,6 @@
 # Mina zkApp: Token
 
-This is a zk Token app. Check the video tutorial for more info. 
+This is a zk Token app. Check the [video tutorial](https://youtu.be/DqZeUItXaLU) for more info. 
 
 ## How to build
 
