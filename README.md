@@ -1,6 +1,6 @@
 # Mina zkApp: Token
 
-This template uses TypeScript.
+This is a zk Token app. Check the video tutorial for more info. 
 
 ## How to build
 
@@ -8,17 +8,10 @@ This template uses TypeScript.
 npm run build
 ```
 
-## How to run tests
+## How to interact with zk contract
 
 ```sh
-npm run test
-npm run testw # watch mode
-```
-
-## How to run coverage
-
-```sh
-npm run coverage
+node build/src/main.js
 ```
 
 ## License

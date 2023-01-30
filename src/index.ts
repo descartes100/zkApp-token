@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { TokenContract } from './Token.js';
 
-export { Add };
+export { TokenContract };
